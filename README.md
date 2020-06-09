@@ -1,5 +1,7 @@
 课程设计
 运用JSP+JavaBean+Servlet模式开发一个小型的管理信息系统。
+使用工具eclipse IDE，JDK，Tomcat，MySQL，Navicat.
+运用知识HTML，css,Javascript，JSP，Strut 2框架，数据库知识等。
 一．功能要求 
 1、对企业人力资源管理的基本信息进行管理。 
 2、管理企业的员工信息（即人事管理功能）。 
